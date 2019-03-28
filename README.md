@@ -1,2 +1,2 @@
 # hugo_blog
-For Hugo project
+For Personal Hugo Blog Project
